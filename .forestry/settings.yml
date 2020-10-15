@@ -5,10 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: _pages
+  path: ''
   label: Pages
   create: documents
-  match: "**/*"
+  match: _pages/*
   templates:
   - post
 - type: jekyll-posts
