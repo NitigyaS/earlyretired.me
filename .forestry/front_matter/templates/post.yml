@@ -20,5 +20,9 @@ fields:
 - type: file
   name: image
   label: image
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
 pages:
 - _posts/2019-01-18-customer-service.md
