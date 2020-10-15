@@ -9,9 +9,9 @@ sections:
   create: documents
   templates:
   - post
-- type: jekyll-pages
-  label: Pages
+- label: Pages
   create: all
+  path: _pages
 - type: document
   path: _config.yml
   label: Configuration
