@@ -11,7 +11,7 @@ sections:
   - post
 - type: jekyll-pages
   label: Pages
-  create: documents
+  create: all
 - type: document
   path: _config.yml
   label: Configuration
