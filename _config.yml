@@ -1,10 +1,10 @@
 ---
-name: EarlyRetiredMe
+name: EarlyRetired
 description: Early Retired Me is my journey to achieve FIRE.
 logo: assets/images/logo.png
 favicon: assets/images/favicon.ico
 email: nitigyasharma@hotmail.com
-mailchimp-list: ''
+mailchimp-list: "https://gmail.us2.list-manage.com/subscribe/post?u=4078ace2f9a15e91cd2c77df5&amp;id=13cb0014a4"
 include:
 - _pages
 permalink: "/:title/"
@@ -15,28 +15,27 @@ plugins:
 - jekyll-paginate
 - jekyll-seo-tag
 authors:
-  sal:
-    name: Sal
+  nitigya:
+    name: Nitigya
     site: https://www.wowthemes.net
-    avatar: "/assets/images/avatar1.jpg"
-    bio: Hi, I am Sal, the author of Mundana, the theme you're currently previewing.
-      I hope you like it!
-    email: wowthemesnet@gmail.com
-    twitter: https://twitter.com/wowthemesnet
-  jane:
-    name: Jane
+    avatar: "/assets/images/avatar_nitigya.png"
+    bio: Hi, I am Nitigya Sharma, I am the author of the blog you are reading.
+    email: nitigyasharma@hotmail.com
+    # twitter: https://twitter.com/wowthemesnet
+  nikki:
+    name: Nikki
     site: https://www.wowthemes.net
     avatar: "/assets/images/avatar2.jpg"
-    bio: Blogger, fashionista, love to explore new ideas and write on my morning coffee!
-    email: fakemail@gmail.com
+    bio: Blogger, and Nonu.
+    email: kumarinikki99@gmail.com
     twitter: https://twitter.com/wowthemesnet
 defaults:
 - scope:
     path: _posts
   values:
     layout: post
-    author: sal
-    avatar: "/assets/images/avatar1.jpg"
+    author: nitigya
+    avatar: "/assets/images/avatar_nitigya.png"
 - scope:
     path: _pages
   values:

@@ -27,8 +27,11 @@ layout: default
 				{% if page.image %}
 				<div class="col-md-6 pr-0 align-self-center">
 					<img class="rounded" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | relative_url }}{% endif %}" alt="{{ page.title }}">
+					{% endif %}
+					{% if page.image_tag %}
+					<i class="text-muted">{{page.image_tag}}</i>
+					{% endif %}
 				</div>
-				{% endif %}
 			</div>
 		</div>
 	</div>
@@ -44,7 +47,7 @@ layout: default
 				</div>
 				<div class="share d-inline-block">
 					<!-- AddToAny BEGIN -->
-					<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+					<div class="a2a_kit a2a_kit_size_28 a2a_default_style">
 						<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
 						<a class="a2a_button_facebook"></a>
 						<a class="a2a_button_twitter"></a>
@@ -76,7 +79,7 @@ layout: default
 			<div class="border p-5 bg-lightblue">
 				<div class="row justify-content-between">
 					<div class="col-md-6 mb-2 mb-md-0">
-						<h5 class="font-weight-bold">Join Newsletter</h5>
+						<h5 class="font-weight-bold">Join Early Retirement Post</h5>
 						Get the latest news right in your inbox. We never spam!
 					</div>
 					<div class="col-md-6">

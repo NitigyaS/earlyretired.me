@@ -2,24 +2,12 @@
 
 Theme designed and developed by [wowthemes](https://github.com/wowthemesnet/mundana-theme-jekyll),
 
-![Homepage preview](./assets/images/screenshot.jpg)
-
-[Live Preview](https://wowthemesnet.github.io/mundana-theme-jekyll/)
-
 ## Requirements
 
 - Ruby > 2.5
 - Jekyll ~> 3.8
 
 ## Content Management
-
-[![import to Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=forestryio/jekyll-mundana-forestry&engine=jekyll)
-
-![Forestry admin interface](./assets/images/mundana-forestry-cms.jpg)
-
-This project is pre-configured for [Forestry](https://forestry.io) a Git-based CMS, [import it](https://app.forestry.io/quick-start?repo=forestryio/jekyll-mundana-forestry&engine=jekyll) to edit and preview your site ✨.
-
-Any changes you make in Forestry is commited back to the repository and automatically deployed.
 
 ## Local development
 
@@ -31,6 +19,10 @@ bundle
 # Start local dev server
 bundle exec jekyll serve --livereload --drafts
 ```
+## Third Party Used
+
+* Buy me a Coffee
+* FormSpree
 
 ## Deployment and hosting
 
