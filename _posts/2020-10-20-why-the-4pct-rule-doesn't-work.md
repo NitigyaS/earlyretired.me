@@ -27,3 +27,9 @@ Portfolio is made up 70% of equity and 30% debt.
 Consumer Price inflation = 5%
 
 Average return on debt = 7%
+
+Let's see how they have performed.
+
+![](/assets/images/4p_depletion.png)
+
+Here you can see, that at 4% only 88% of the population was able to survive.
