@@ -29,5 +29,3 @@ fields:
   config:
     required: false
   label: menus
-pages:
-- _posts/2019-01-18-customer-service.md
