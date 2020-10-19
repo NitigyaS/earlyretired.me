@@ -52,3 +52,6 @@ That's it, now your site gets deployed automatically on `git push` or when savin
 ## LICENSE
 
 [MIT](LICENSE)
+
+
+EMOJI : https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md

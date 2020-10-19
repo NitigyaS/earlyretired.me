@@ -14,12 +14,14 @@ plugins:
 - jekyll-sitemap
 - jekyll-paginate
 - jekyll-seo-tag
+- jekyll-emoji
 authors:
   nitigya:
     name: Nitigya
     site: https://www.wowthemes.net
     avatar: "/assets/images/avatar_nitigya.png"
-    bio: Hi, I am Nitigya Sharma, I am the author of the blog you are reading.
+    bio: Hi, I am Nitigya Sharma, I do not have 15 years of functional experience, nor I have done any professional course on personal finance.
+          I am a paranoid person, with serious trust issues and therefore I do not take any advice on internet without any data. So should you.
     email: nitigyasharma@hotmail.com
     # twitter: https://twitter.com/wowthemesnet
   nikki:

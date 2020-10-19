@@ -5,23 +5,32 @@ categories: [ early-retirement ]
 image: assets/images/2.jpg
 image_tag: "By Daniel J. Sieradski - Flickr: Aaron Swartz, CC BY-SA 2.0"
 ---
-Hello fellow tribemember,
-I noramlly assume that almost all the tribemember who read the blog, would be familiar of the concept of FIRE (Financially Dependent , Retire Early).
-But, assuming something, is aginast the rile of our FIRE tribe.
-So I thought of writing this article for those, who are just thinking of becoming the part of the tribe, or maybe just wondering what this all about.
+> There really are two lives we live. The first life and then the second life when we realize we only have one life.
+
+<br>
+
+
+Hello fellow Tribemember,
+
+I normally assume that almost all the tribemember who read the blog, are familiar of the concept of FI/RE (Financially Dependent , Retire Early).
+
+But, assuming something, is against the rules of our FIRE tribe.
+So, I thought of writing this article for those, who are just thinking of becoming the part of the tribe, or maybe just wondering what this is all about.
 
 First of all, before you continue, ask yourself these questions :
 
-* How do you feel about waking up daily at 8:00 for office and returning home at 7:00.
-* How do you feel about sleeping in your house and living in the office.
-* How do you feel notifying to everyday, when you take a leave, or in worst case, to ask for permission to take a leave.
-* How do you feel about the things you wanted to do as kid or younger self, are still waiting in your journal to be crossed.
-* How do you feel when you live paycheck to paycheck, always running after someting new and shiny.
+* Waking up daily at 8:00 for office and returning home at 7:00.
+* Sleeping in your house and living in the office.
+* Asking for permission to take a vacation.
+* Your TODO list is closed since you are kid.
+* You live paycheck to paycheck, always running after someting new and shiny.
 
 If your answer was good, I strongly encourage you to write your experience in the comment section and tell us more about it.
+
 Otherwise you are also one of us, who thinks there is more to life than to work and wait for death.
 
-Any normal person normally plans to work till 60s and than retires. Although the retirement age is so reicuclaly high that till the point you reach retirement your body had already stop most of it's functioning.
+### Retirement
+Any normal person normally plans to work till 60s and than retires. Although the retirement age is so ridicuously high, that till the point you reach retirement, you had already lived 75% of your life.
 
 Eyes become week, bone densitiy reduces and muscel mass decreases. With years of grinding in the cubicle, body achess, back pains, knee hurts. Those of us who are working a whitecollar jobs, are affected the worst, since ther dormant lifestyle renders their body useless. There si not much left to life after that except to wait patiently for the death.
 
