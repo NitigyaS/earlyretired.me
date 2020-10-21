@@ -6,7 +6,7 @@ image: assets/images/open.jpg
 image_tag: "Image by Alan Robb from Pixabay"
 ---
 
-> Once again...welcome to my house. Come freely. Go safely; and leave something of the happiness you bring.
+> **Once again...welcome to my house. Come freely. Go safely; and leave something of the happiness you bring.**
 <br>
 — Bran Stoker
 <br>

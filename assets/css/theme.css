@@ -664,7 +664,7 @@ article {
     color: #222222;
 }
 article p,article pre,article figure,article img,article blockquote,article iframed,article embed {
-	margin-bottom:2rem;
+	margin-bottom:1rem;
 }
 article blockquote {
 	padding-left:40px;
@@ -804,3 +804,86 @@ div.a2a_full_footer {display:none;}
 	 }
  }
  
+ /* CheckMark List */
+ ul.is-style-checkmark-list li {
+    margin: 0 0 10px 0;
+    line-height: 30px;
+	color: #111;
+	list-style: none;
+
+}
+
+ul.checkmark-list li:before, ul.is-style-checkmark-list li:before {
+    margin: 0 0 0 -45px;
+    position: absolute;
+    color: #fff;
+    content: "\f019";
+	background: #03a87c;
+	padding: 2px;
+    border-radius: 20px;
+    width: 34px;
+	text-align: center;
+	content: '✔';
+}
+
+/* Cross Mark List*/
+ul.is-style-crossmark-list li {
+    margin: 0 0 10px 0;
+    line-height: 30px;
+	color: #111;
+	list-style: none;
+
+}
+
+ul.crossmark-list li:before, ul.is-style-crossmark-list li:before {
+    margin: 0 0 0 -45px;
+    position: absolute;
+    color: #fff;
+    content: "\f019";
+	background: #c61e2f;
+    padding: 2px;
+    border-radius: 20px;
+    width: 34px;
+	text-align: center;
+	content: '✗';
+}
+
+
+ /* Arrow List */
+ ul.is-style-arrowmark-list li {
+    margin: 0 0 10px 0;
+    line-height: 30px;
+	color: #111;
+	list-style: none;
+
+}
+
+ul.checkmark-list li:before, ul.is-style-arrowmark-list li:before {
+    margin: 0 0 0 -45px;
+    position: absolute;
+    color: #fff;
+    content: "\f019";
+    background: #03a87c;
+    padding: 2px;
+    border-radius: 20px;
+    width: 34px;
+	text-align: center;
+	content: '↪';
+}
+
+
+table {
+	table-layout: fixed ;
+	width: 100% ;
+	border: 1px solid #03a87c;
+
+  }
+
+  th{
+	border: 1px solid #03a87c;
+	background-color: #e8f3ec;
+  }
+  td{
+	border: 1px solid #03a87c;
+
+  }

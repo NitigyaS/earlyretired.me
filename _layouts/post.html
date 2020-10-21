@@ -10,7 +10,7 @@ layout: default
 					<p class="text-uppercase font-weight-bold">
 						<span class="catlist">
 							{% for category in page.categories %}
-							<a class="sscroll text-danger" href="{{ "categories.html" | relative_url }}#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
+							<a class="sscroll text-success" href="{{ "categories.html" | relative_url }}#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
 							{% endfor %}
 						</span>
 					</p>
@@ -47,10 +47,11 @@ layout: default
 				</div>
 				<div class="share d-inline-block">
 					<!-- AddToAny BEGIN -->
-					<div class="a2a_kit a2a_kit_size_28 a2a_default_style">
-						<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+					<div class="a2a_kit a2a_kit_size_28 a2a_default_style" data-a2a-icon-color="#03a87c" >
 						<a class="a2a_button_facebook"></a>
 						<a class="a2a_button_twitter"></a>
+						<a class="a2a_button_reddit"></a>
+						<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
 					</div>
 					<script async src="https://static.addtoany.com/menu/page.js"></script>
 					<!-- AddToAny END -->

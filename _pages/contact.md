@@ -23,7 +23,7 @@ permalink: "/contact.html"
 </div>
 <textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
 <input class="btn btn-success" type="submit" value="Send">
-</form>
+</form>F
 
 <!-- Javascript file for Contact Form -->
 <script data-cfasync="false" type="text/javascript" src="assets/js/form-submission-handler.js"></script>

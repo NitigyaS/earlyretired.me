@@ -33,10 +33,12 @@ As I mentioned in the beggining, the biggest mistake any person do is to listen 
 
 While choosing the credit card you must focus on the following aspect. In the same priority
 
-1. Eligibility Criteria.
-2. The Cost of ownership.
-3. The Reward Ratio of Credit Card.
-4. Benefits
+<ul class="is-style-checkmark-list">
+<li>Eligibility Criteria.</li>
+<li>The Cost of ownership.</li>
+<li>The Reward Ratio of Credit Card.</li>
+<li>Benefits</li>
+</ul>
 
 Make sure you follow the order of priority here.
 

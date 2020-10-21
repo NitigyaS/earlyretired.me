@@ -55,3 +55,21 @@ That's it, now your site gets deployed automatically on `git push` or when savin
 
 
 EMOJI : https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
+SEO : https://www.blogtyrant.com/beginner-blogging-seo/
+
+
+Designed List 
+<ul class="is-style-checkmark-list">
+<li>Eligibility Criteria.</li>
+<li>The Cost of ownership.</li>
+<li>The Reward Ratio of Credit Card.</li>
+<li>Benefits</li>
+</ul>
+
+<ul class="is-style-crossmark-list">
+<li>Eligibility Criteria.</li>
+<li>The Cost of ownership.</li>
+<li>The Reward Ratio of Credit Card.</li>
+<li>Benefits</li>
+</ul>

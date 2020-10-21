@@ -19,9 +19,11 @@ send us an email at [mystory@earlyretired.me](mailto:mystory@earlyretired.me)
 
 Please try to include the following :
 
-* Your Name / Names
-* What is your goal
-* When you plan to acheive the goal
-* How do you plan to achieve your goal
-* Link to your social_media or blog.
-* How {{site.name}} has been helpful
+<ul class="is-style-checkmark-list">
+<li>Your Name / Names.</li>
+<li>What is your goal.</li>
+<li>When you plan to acheive the goal.</li>
+<li>How do you plan to achieve your goal.</li>
+<li>Link to your social_media or blog.</li>
+<li>How {{site.name}} has been helpful.</li>
+</ul>
