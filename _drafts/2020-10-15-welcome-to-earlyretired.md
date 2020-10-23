@@ -26,34 +26,36 @@ I can safely assume that you are one of the many proponents of the FIRE movement
 
 I am Nitigya, I am one of the 4.3 million people employed in India's IT sector. I am a Computer System Engineer, who is in pursuit of Financial Independence and plans to retire early.
 
-This my first time blogging, So obviously I am going to make a lot of mistakes, but what is the worst thing I can get,  except feedback?
+I do not have 15 years of functional experience as a financial advisor, nor I have done any professional course on personal finance. I am an ordinary, but skeptical person, with serious trust issues and therefore I do not take any advice on the internet without any data. So should you.
 
-I like reading a lot, I read about so many things
+I like reading and writing. Finance has been my second interest after computers.
 
 ## Why am I blogging?
 
-Well, Since I have started my journey for financial independence, I have come across so many interesting topics, articles, and books. I have been bookmarking, taking notes, doing making calculation, and running simulation on my own. 
+Since I have started my journey for financial independence, I have come across many interesting topics, articles, and books. I have been bookmarking, taking notes,  making calculations, and running simulations for my own.
 
-I found that I have enought data, but not formally organized anywhere,  
+I always like writing about things that I have learned and applied successfully. Although most of my writing has been in the form of documentation and README files. Recently I  started writing articles on medium and found that I enjoy that. 
 
-There are atleast 10k people who wants to retire early in India. Which is a very small number compared to 800k of the total FI/RE followers.<sup>1</sup>
+That's when I thought of starting my own blog to write about stuff. 
 
-It is really strange to see that a country which has close to 20% of world population has only 1.2% of total FI/RE population. I believe this to be an opportunity to spread more awareness about FI/RE and let other see a world where life is just not about work, but living too.
+But, why I am writing about financial independence and early retirement?
 
-Since I started this journey of mine, I have came accross varisous books, blogs, people who have exapnded my way of thinking and has given me a completly new prespective of life. I have learnded so much and still learning and wanted to share this with the world.
+There are atleast 10k people who want to retire early in India. Which is a very small number compared to 800k of the total FI/RE followers.<sup>1</sup>
+
+It was really interesting for me,  that a country that has close to 20% of the world population has only 1.2% total FI/RE population. I spread more awareness about FI/R realized that there is a gap here, that needs to be filled. People in India must see a world where life is just not about work, but living too.
 
 **What does this blog about**
 
-As you might judge from the name of the blog, it is obviously about the early retirement, but it's  not limited to that, I also write about other things that surrounds the whole FI/RE buzz.
+As you might judge from the name of the blog, it is obviously about the early retirement, but it's not limited to that, I also write about other things that surround the whole FI/RE buzz.
 
-In this blog you will find interesting articles on
+In this blog, you will find interesting articles on
 
 * [Minimalism]({{"/categories.html#minimalism" | relative_url }})
 * [Frugality]({{"/categories.html#frugality" | relative_url }})
 * [Personal Finance]({{"/categories.html#personal-finance" | relative_url }})
 * [Financial Independence]({{"/categories.html#financial-independence" | relative_url }})
 * [Early Retirement]({{"/categories.html#early-retirement" | relative_url }})
-* [Pinch of Philosphy]({{"/categories.html#philosphy" | relative_url }})
+* [Pinch of Philosophy]({{"/categories.html#philosphy" | relative_url }})
 
 <br>
 <u>Sources<u>
