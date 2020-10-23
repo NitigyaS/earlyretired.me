@@ -12,7 +12,7 @@ image_tag: Image by Alan Robb from Pixabay
 > — Bran Stoker
 > <br>
 
-Hello future Tribemember,
+Hello, future Tribemember,
 
 If you are new here, Stop reading just now!! I would strongly encourage you to go and read about what FI/RE actually is and why you should at least know about it [here]({{"/early-retirement/" | relative_url }}).
 
