@@ -40,7 +40,7 @@ That's when I thought of starting my blog to write about stuff.
 
 There are at least 10k people who want to retire early in India. A small number compared to 800k of the total FI/RE community.<sup>1</sup>
 
-It is interesting to note, that a country, which makes 20% of the world population has only 1.2% of the total FI/RE population. 
+It is interesting to note, that a country, which makes 20% of the world population has only 1.2% of the total FI/RE population.
 
 With the help of the blog, I can spread more awareness regarding the whole FIRE buzzword as well as will be able to connect better with others.
 
@@ -59,9 +59,19 @@ In this blog, you will find fascinating articles on:
 * [Early Retirement]({{"/categories.html#early-retirement" | relative_url }})
 * [Pinch of Philosophy]({{"/categories.html#philosphy" | relative_url }})
 
+## Who are you?
+
+If you have read this far, This means that you find this radical idea of FI/RE interesting and want to know how you can do the same.
+
+ It also means that you are one of my friends, and this blog is yours as much it is mine.
+
+So, being a good friend, I invite you to share your story with me [here]({{"/your-story.html" | relative_url }}). It doesn't matter if you are already financially independent or just considering this path.  Let us become part of your journey and be part of ours.
+
+The comment section of this blog is waiting for your wise words, go feed it something. 
+
 ***
 
-<br> 
+<br>
 
 #### Sources
 
