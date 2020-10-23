@@ -22,7 +22,7 @@ Good!! :kissing_heart: So now we are friends.
 
 ## About Me
 
-I am Nitigya, one of the 4.3 million people employed in India's IT sector. I am a Computer system engineer who is in pursuit of financial independence and plans to retire early.
+I am Nitigya, one of the 4.3 million people employed in India's IT sector. I am in pursuit of financial independence and plans to retire early.
 
 I do not have 15 years of functional experience as a financial advisor, neither I have done any professional course on personal finance. I am a suspicious person with serious trust issues, who do not take any advice on the internet without any data. So should you.
 
