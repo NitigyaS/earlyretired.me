@@ -2,8 +2,8 @@
 layout: post
 title: "What is Early Retirement?"
 categories: [ early-retirement ]
-image: assets/images/2.jpg
-image_tag: "By Daniel J. Sieradski - Flickr: Aaron Swartz, CC BY-SA 2.0"
+image: assets/images/sunbathe.png
+image_tag: "Illustration by Freepik Stories stories.freepik.com"
 ---
 > There really are two lives we live. The first life and then the second life when we realize we only have one life.
 

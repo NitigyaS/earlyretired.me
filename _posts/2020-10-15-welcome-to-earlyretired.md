@@ -3,8 +3,8 @@ layout: post
 title: Welcome to EarlyRetired.me!
 categories:
 - posts
-image: assets/images/open.jpg
-image_tag: Image by Alan Robb from Pixabay
+image: assets/images/open.png
+image_tag: "Illustration by Freepik Stories. stories.freepik.com"
 
 ---
 > **Once again...welcome to my house. Come freely. Go safely; and leave something of the happiness you bring.**

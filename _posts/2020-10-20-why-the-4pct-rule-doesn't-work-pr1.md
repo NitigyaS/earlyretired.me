@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Why the 4% thumb rule doesn't work in real life.
+title: Does the 4% rule work?
 categories:
 - personal-finance
-image: assets/images/credit_card_reward.jpg
+image: assets/images/Projections-pana.png
+image_tag: "Illustration boy Freepik Stories stories.freepik.com"
 
 ---
 > **The universe will reward you for taking risks on its behalf.**
@@ -13,7 +14,7 @@ image: assets/images/credit_card_reward.jpg
 <br>
 Hello, fellow Tribe member,
 
-If you are one of the newcomers to this whole FI/RE movement, I have bad news for you. You remember the 4% withdrawal rule that the best selling author tells you about.
+If you are one of the newcomers to this whole FI/RE movement, I have a news for you. You remember the 4% withdrawal rule that the best selling author tells you about.
 
 Well, that doesn't work in real life. :frowning:
 
@@ -56,9 +57,9 @@ Here you can see, that at 4% SWR, only 88% of the population was able to survive
 
 ### Result, Why 12% failed at ₹0
 
-I bet you are asking the same question, How the hell it is possible, that only 88% of the population was able to survive this short amount of time. That too when benchmark was only a **0** ? This benchmark is very linient, but it will do a good comparison with Trinity Study.
+I bet you are asking the same question, How the hell it is possible, that only 88% of the population was able to survive this short amount of time. That too when the benchmark was only a **0** ? This benchmark is very linient, but it will do a good comparison with the Trinity Study.
 
-Well first let's see, who died this test.
+Well first let's see, who died in this test.
 
 
 <details>
@@ -67,11 +68,16 @@ Well first let's see, who died this test.
 </summary>
 <br>
 <table>
-<tr><td>March-1992</td> <td>April-1992</td> <td>January-1994</td> <td>February-1994</td> <td>March-1994</td> <td>April-1994</td> <td>May-1994</td> <td>June-1994</td></tr>
-<tr><td>July-1994</td> <td>August-1994</td> <td>September-1994</td> <td>October-1994</td> <td>November-1994</td> <td>December-1994</td> <td>February-2000</td> <td>April-2006</td></tr>
-<tr><td>September-2006</td> <td>October-2006</td> <td>November-2006</td> <td>December-2006</td> <td>January-2007</td> <td>February-2007</td> <td>March-2007</td> <td>April-2007</td></tr>
-<tr><td>May-2007</td> <td>June-2007</td> <td>July-2007</td> <td>August-2007</td> <td>September-2007</td> <td>October-2007</td> <td>November-2007</td> <td>December-2007</td></tr>
-<tr><td>January-2008</td> <td>February-2008</td> <td>March-2008</td> <td>April-2008</td> <td>May-2008</td> <td>September-2010</td> <td>October-2010</td> <td>December-2010</td></tr>
+<tr><td>March-1992</td> <td>April-1992</td> <td>January-1994</td> <td>February-1994</td></tr>
+<tr> <td>March-1994</td> <td>April-1994</td> <td>May-1994</td> <td>June-1994</td></tr>
+<tr><td>July-1994</td> <td>August-1994</td> <td>September-1994</td> <td>October-1994</td> </tr>
+<tr><td>November-1994</td> <td>December-1994</td> <td>February-2000</td> <td>April-2006</td></tr>
+<tr><td>September-2006</td> <td>October-2006</td> <td>November-2006</td> <td>December-2006</td> </tr>
+<tr><td>January-2007</td> <td>February-2007</td> <td>March-2007</td> <td>April-2007</td></tr>
+<tr><td>May-2007</td> <td>June-2007</td> <td>July-2007</td> <td>August-2007</td></tr>
+<tr> <td>September-2007</td> <td>October-2007</td> <td>November-2007</td> <td>December-2007</td></tr>
+<tr><td>January-2008</td> <td>February-2008</td> <td>March-2008</td> <td>April-2008</td></tr>
+<tr> <td>May-2008</td> <td>September-2010</td> <td>October-2010</td> <td>December-2010</td></tr>
 </table>
 </details>
 
@@ -79,6 +85,11 @@ Well first let's see, who died this test.
 In the above data we can see that all those people who retired, just before a major market crashed failed. Also chances of failure increases if your withdrawl rate is high.
 
 ### Conclusion
-Frankly there is no conclusion, this report is not complete, it is far from reality. In real life 0 is not the benchmark. Benchmark should be very high. I will be running another simulation where the benchmark will be Inflate value of corpus.
+Frankly there is no conclusion, this report is not complete, it is far from reality. In real life **0** can not be our benchmark.
 
-Yes, that's going to be brutal and lot more people will die.
+This post will have multiple parts and you can read about them here
+
+* [FIRE : Withdraw only from debt, if market is crashing!]({{"/withdraw-from-debt/" | relative_url }})
+
+
+Yes, that's going to be brutal and alot more people will die.

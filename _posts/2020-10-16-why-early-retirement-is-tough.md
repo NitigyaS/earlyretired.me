@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "5 reason, why early retirement is impossible?"
+title: "Early Retirement, A Mission Impossible."
 categories: [ early-retirement ]
-image: assets/images/1.jpg
-image_tag: "By Daniel J. Sieradski - Flickr: Aaron Swartz, CC BY-SA 2.0"
+image: assets/images/Mission Impossible-bro.png
+image_tag: "Illustration by Freepik Stories stories.freepik.com"
 ---
 > Choose Wisely, Live Well!
 

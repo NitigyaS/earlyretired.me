@@ -2,8 +2,8 @@
 layout: post
 title: "How to choose a credit card"
 categories: [ personal-finance ]
-image: assets/images/credit_card_reward.jpg
-# image_tag: "By Daniel J. Sieradski - Flickr: Aaron Swartz, CC BY-SA 2.0"
+image: assets/images/plain-credit-card.png
+image_tag: "Illustration by Freepik Stories stories.freepik.com"
 ---
 > The universe will reward you for taking risks on its behalf.
 <br>
